@@ -13,7 +13,7 @@ The following tasks were done:
 
 ## Resources
 
-- Data Source: crypto_data.csv (https://min-api.cryptocompare.com/data/all/coinlist)
+- Data Source: [crypto_data.csv](https://min-api.cryptocompare.com/data/all/coinlist)
 - Software: Python 3.8.5, Anaconda 4.10.1
 
 ## Results
